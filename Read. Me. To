@@ -1,0 +1,8 @@
+How to get your Minecraft .jar
+Download and extract the ZIP.
+Make sure Java 21 is installed.
+Double-click build.bat on Windows while connected to the internet.
+Wait for the build to finish.
+Find the generated JAR at skull-client/build/libs/skullclient-1.0.0.jar.
+Put that JAR into your Minecraft .minecraft/mods folder with Fabric Loader and Fabric API for version 1.21.1.
+Important: This download is the build-ready project, not the compiled .jar itself. The build script will attempt to download Gradle and compile it on your computer.
